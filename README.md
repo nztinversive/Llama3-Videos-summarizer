@@ -19,6 +19,7 @@ To get this project up and running on your local machine, follow these steps:
    git clone https://github.com/yourusername/vide-summary-app.git
 
 2. ### Navigate to the project directory:
+    ```bash
     cd video-summary-app
 
 3. ### Install the required packages:
