@@ -23,5 +23,6 @@ To get this project up and running on your local machine, follow these steps:
     cd video-summary-app
 
 3. ### Install the required packages:
+    ```bash
     pip install -r requirements.txt
 
