@@ -14,7 +14,13 @@ Before you begin, ensure you meet the following requirements:
 
 To get this project up and running on your local machine, follow these steps:
 
-1. Clone the repository:
+1. ### Clone the repository:
    ```bash
    git clone https://github.com/yourusername/vide-summary-app.git
+
+2. ### Navigate to the project directory:
+    cd video-summary-app
+
+3. ### Install the required packages:
+    pip install -r requirements.txt
 
